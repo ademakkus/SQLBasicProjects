@@ -1,0 +1,9 @@
+C:\Users\mypc\source\repos\SQLProjects\WindowsFormsAppDataReader\bin\Debug\WindowsFormsAppDataReader.exe.config
+C:\Users\mypc\source\repos\SQLProjects\WindowsFormsAppDataReader\bin\Debug\WindowsFormsAppDataReader.exe
+C:\Users\mypc\source\repos\SQLProjects\WindowsFormsAppDataReader\bin\Debug\WindowsFormsAppDataReader.pdb
+C:\Users\mypc\source\repos\SQLProjects\WindowsFormsAppDataReader\obj\Debug\WindowsFormsAppDataReader.csprojAssemblyReference.cache
+C:\Users\mypc\source\repos\SQLProjects\WindowsFormsAppDataReader\obj\Debug\WindowsFormsAppDataReader.Form1.resources
+C:\Users\mypc\source\repos\SQLProjects\WindowsFormsAppDataReader\obj\Debug\WindowsFormsAppDataReader.Properties.Resources.resources
+C:\Users\mypc\source\repos\SQLProjects\WindowsFormsAppDataReader\obj\Debug\WindowsFormsAppDataReader.csproj.GenerateResource.cache
+C:\Users\mypc\source\repos\SQLProjects\WindowsFormsAppDataReader\obj\Debug\WindowsFormsAppDataReader.exe
+C:\Users\mypc\source\repos\SQLProjects\WindowsFormsAppDataReader\obj\Debug\WindowsFormsAppDataReader.pdb

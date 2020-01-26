@@ -1,0 +1,5 @@
+C:\Users\mypc\source\repos\SQLProjects\ConsoleAppDataReader\bin\Debug\ConsoleAppDataReader.exe.config
+C:\Users\mypc\source\repos\SQLProjects\ConsoleAppDataReader\bin\Debug\ConsoleAppDataReader.exe
+C:\Users\mypc\source\repos\SQLProjects\ConsoleAppDataReader\bin\Debug\ConsoleAppDataReader.pdb
+C:\Users\mypc\source\repos\SQLProjects\ConsoleAppDataReader\obj\Debug\ConsoleAppDataReader.exe
+C:\Users\mypc\source\repos\SQLProjects\ConsoleAppDataReader\obj\Debug\ConsoleAppDataReader.pdb
